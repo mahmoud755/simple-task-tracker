@@ -1,3 +1,4 @@
 
 Buy groceries
 Walk the dog
+[x] Buy groceries
